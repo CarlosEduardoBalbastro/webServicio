@@ -34,6 +34,11 @@ svg:hover{
 }
 
 
+.letra {
+    color: var(--colorFondo2);
+}
+
+
 .separador {
     background: var(--colorFondo2);
 }
@@ -54,8 +59,8 @@ svg:hover{
 
 .fondo1 {
     position:absolute;
-    top: 100px;
-    right: 100px;
+    top: 200px;
+    right: 200px;
     width: 400px;
     height: 400px;
     filter: blur(100px);
